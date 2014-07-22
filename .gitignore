@@ -1,4 +1,7 @@
 *.o
+.project
+.cproject
+.settings
 .DS_Store
 .*.swp
 /env
